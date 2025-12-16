@@ -1,1 +1,1 @@
-print ("Hello all change")
+print ("Hello change")
